@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anuj 👋
 
-<!--
-**0xAnujjj/0xAnujjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small machines of thought—code that listens, systems that learn.  
+Turning noise into pattern, friction into function, ideas into infrastructure.
 
-Here are some ideas to get you started:
+- Coding. Learning. Shipping.
+- Occasionally writing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently exploring
+- Dart + Flutter (app dev)
+- Data science with Python (NumPy), MATLAB
+- 3D creation: Blender, Onshape (rendering)
+- Automations with n8n
+
+## Projects
+New here—projects coming soon. I’ll share experiments as I learn.
+
+## Tools & environments
+- Languages/Stacks: Dart, Python, MATLAB
+- 3D: Blender, Onshape
+- Automations: n8n
+- Editor/IDE: VS code
+
+## How I learn
+- Start small, build often
+- Document progress
+
+## Contact
+- Email: bhattanuj299@gmail.com
+- Instagram: [@ahhnuzz](https://www.instagram.com/ahhnuzz/)
