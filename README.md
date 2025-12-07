@@ -42,8 +42,7 @@ New here — projects coming soon. I’ll be sharing experiments and builds as I
 ---
 
 ## 💡 Learning Philosophy  
-> I learn by doing, even when it’s difficult.  
-> Giving up is part of the journey — starting again is what matters.
+> Learning Comes in Loops
 
 ---
 
