@@ -68,10 +68,6 @@ New here — projects coming soon. I’ll be sharing experiments and builds as I
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xAnujjj&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnujjj&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=0xAnujjj&theme=tokyonight" />
