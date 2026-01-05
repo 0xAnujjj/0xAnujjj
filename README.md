@@ -29,13 +29,11 @@
 ---
 
 ## 🚀 Projects  
-New here — projects coming soon. I’ll be sharing experiments and builds as I learn.
-
+- github.com/0xAnujjj/RayTracer
 ---
 
 ## 📚 Currently Learning
-- Dart  
-- Python  
+- Strudel
 - Blender  
 - Onshape  
 
