@@ -20,7 +20,6 @@
 
 ### **Frameworks & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
@@ -36,7 +35,7 @@
 <div align="left">
 
 ### - [RayTracer](https://github.com/0xAnujjj/RayTracer)
-
+### - [Health Data Analysis](https://github.com/0xAnujjj/health-data-visualization)
 </div>
 
 ---
@@ -65,13 +64,6 @@
 <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
 
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xAnujjj&theme=tokyonight" />
 </p>
 
 ---
