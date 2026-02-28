@@ -36,6 +36,7 @@
 
 ### - [RayTracer](https://github.com/0xAnujjj/RayTracer)
 ### - [Health Data Analysis](https://github.com/0xAnujjj/health-data-visualization)
+### - [Iris Species Classification](https://github.com/0xAnujjj/iris-species-classification)
 </div>
 
 ---
